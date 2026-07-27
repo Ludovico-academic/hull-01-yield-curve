@@ -1,3 +1,6 @@
+> **Moved.** This repository now lives at [ludovico-luce/yield-curve](https://github.com/ludovico-luce/yield-curve). This copy is no longer maintained.
+___
+
 # UoH-01-yield-curve
 
 Interactive 3D **US Treasury yield curve surface** (1990–present) built in Python (pandas + Plotly), using **pandas_datareader** to pull data from FRED (Federal Reserve Economic Data).
